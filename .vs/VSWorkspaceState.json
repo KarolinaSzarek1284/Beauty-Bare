@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API",
+    "\\API\\Controllers",
+    "\\API\\Middleware",
+    "\\Core",
+    "\\Core\\Entities",
+    "\\Core\\Interfaces",
+    "\\Infrastructure",
+    "\\Infrastructure\\Data"
+  ],
+  "SelectedNode": "\\BeautyBare.sln",
+  "PreviewInSolutionExplorer": false
+}

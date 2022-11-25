@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "Luxury Ceramides",
+    "Description": "CERAMIDOWY KREM-SERUM POD OCZY I NA POWIEKI to luksusowy krem dla skóry dojrzałej, który poprawia gładkość i napięcie skóry oraz zmniejsza widoczność worków pod oczami.",
+    "Contraindications": "Brak",
+    "PictureUrl": "images/products/sb-ang1.png",
+    "Apllying": "Codziennie rano i wieczorem wmasuj krem w oczyszczoną skórę wokół oczu i na powieki.",
+    "Capacity": 15,
+    "IsVegan": false,
+    "Country": "Poland",
+    "InUse": false,
+    "ProductCategoryId": 1,
+    "ProductBrandId": 1,
+    "ProductSubcategoryId": 1,
+    "Ingredients": [ "Aqua", "Rosa Damascena Flower Water", "Caprylic/Capric Triglyceride", "Dicaprylyl Ether", "Hydrogenated Coco-Glycerides" ]
+  },
+  {
+    "Name": "Cellular Luminous",
+    "Description": "intensywne serum przeciw przebarwieniom skóry",
+    "Contraindications": "Brak",
+    "PictureUrl": "images/products/sb-ang1.png",
+    "Apllying": "Stosuj codziennie rano i wieczorem na oczyszczoną skórę.",
+    "Capacity": 100,
+    "IsVegan": false,
+    "Country": "Poland",
+    "InUse": false,
+    "ProductCategoryId": 1,
+    "ProductBrandId": 2,
+    "ProductSubcategoryId": 2,
+    "Ingredients": [ "Aqua", "Isopropyl Palmitate", "Cetearyl Isononanoate", "Dimethicone", "Glycerin" ]
+  },
+  {
+    "Name": "dermo face sebio+",
+    "Description": "żel do mycia twarzy, 2 kwasy AHA + LHA",
+    "Contraindications": "Brak",
+    "PictureUrl": "images/products/sb-ang1.png",
+    "Apllying": "Codziennie rano i wieczorem wmasuj krem w oczyszczoną skórę wokół oczu i na powieki.",
+    "Capacity": 195,
+    "IsVegan": false,
+    "Country": "Poland",
+    "InUse": false,
+    "ProductCategoryId": 2,
+    "ProductBrandId": 3,
+    "ProductSubcategoryId": 3,
+    "Ingredients": [ "Aqua", "Polysorbate 20", "Poloxamer 184", "Glycerin", "Peat Extract"]
+  }
+]
